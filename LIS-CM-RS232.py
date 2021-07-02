@@ -1,4 +1,4 @@
-from tkinter.constants import FALSE
+#from tkinter.constants import FALSE
 import PySimpleGUI as sg
 from PySimpleGUI.PySimpleGUI import Column
 import serial
