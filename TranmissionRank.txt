@@ -1,0 +1,7 @@
+STA Neoplastine CI Plus/Neoplastine R,1,2,3
+STA CK Prest ,16,17,18
+STA Cephascreen,11,12,13
+STA PTT Automate ,6,7,8
+STA Liquid Fib,21,22,
+STA Thrombin,36,37,38
+STA Liatest D-Dimer Plus,26,27,28
